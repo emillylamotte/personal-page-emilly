@@ -1,0 +1,24 @@
+.profile{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    margin: 0px auto;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+.profile img{
+    position: relative;
+    width: 280px;
+    border-radius:50%;
+    background-image: linear-gradient(#70000c, #0e0f0f), radial-gradient(circle at top right, #70000c, #0e0f0f);
+    background-origin: border-box;
+    padding: 0.4rem;
+}
+.profile p{
+    font-size: 1.4rem;
+    color: #f5f1f1;
+    text-indent: 1rem;
+    text-align: justify;
+    width: 50%;
+}
