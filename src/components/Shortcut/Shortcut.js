@@ -7,8 +7,7 @@ class Shortcut extends React.Component{
             <div className="shortcut-button">
                 <button onClick={()=>{window.location.href = `${this.props.atalho}`}}>{this.props.name}</button>
             </div>
-          
-            
+
           );
     }
     

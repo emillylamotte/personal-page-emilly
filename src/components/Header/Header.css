@@ -1,6 +1,5 @@
 .container{
   width: 50%;
-  height: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -14,5 +13,5 @@
 }
 h1{
     color: #f5f1f1;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
